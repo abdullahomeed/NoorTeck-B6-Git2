@@ -15,6 +15,10 @@ System.out.println("random code 2...");
 public void add(int a, int c) {
 	System.out.println(a+c);
 }
+
+public void subtract(int a, int b) {
+	System.out.println(a-b);
+}
 }
 
 
