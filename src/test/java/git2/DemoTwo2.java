@@ -1,5 +1,5 @@
 package git2;
-//coming from remote 123....
+//coming from remote repo....
 public class DemoTwo2 {
 public static void main(String[] args) {
 	
