@@ -9,9 +9,12 @@ public static void main(String[] args) {
 	
 	System.out.println("random 1235");
 	
-	//test3232
+System.out.println("random code 2...");
+}
+
+public void add(int a, int b) {
+	System.out.println(a+b);
 }
 }
 
 
-//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
